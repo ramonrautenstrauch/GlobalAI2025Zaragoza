@@ -20,7 +20,8 @@ Queremos agradecer a la organización que ha hecho posible el evento:
 ## Agradecimientos a los patrocinadores
 Queremos agradecer a los patrocinadores que han hecho posible el evento:
 - **etopia_** | **Ayuntamiento de Zaragoza**
-- **eboca**.
+- **eboca**
+- **Aprende BC** [Canal de YouTube AprendeBC](https://www.youtube.com/@rcorella)
 
 ## Licencia
 Este repositorio se distribuye bajo la [Licencia MIT](LICENSE). Consulta el archivo de licencia para más detalles sobre el uso y distribución del contenido.
